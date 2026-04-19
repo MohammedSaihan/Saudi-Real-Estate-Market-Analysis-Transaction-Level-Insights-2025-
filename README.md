@@ -275,12 +275,16 @@ A few things are good but still need tightening if this project is going into a 
 
 ---
 
-## Author
+## Author1
 
 **Aujtaba Almeshal**  
 Data Analyst | SQL | Power BI | Python
 [LinkedIn Profile](https://www.linkedin.com/in/mujtaba-almeshal/)
+
+
+
+## Author2
+
 **Mohammed Saihan**  
 Data Analyst | SQL | Power BI | Python
 [LinkedIn Profile](https://www.linkedin.com/in/mohammed-saihan/)
-

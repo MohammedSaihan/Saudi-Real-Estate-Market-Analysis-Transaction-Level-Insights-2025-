@@ -277,7 +277,7 @@ A few things are good but still need tightening if this project is going into a 
 
 ## Author1
 
-**Aujtaba Almeshal**  
+**Mujtaba Almeshal**  
 Data Analyst | SQL | Power BI | Python
 [LinkedIn Profile](https://www.linkedin.com/in/mujtaba-almeshal/)
 
